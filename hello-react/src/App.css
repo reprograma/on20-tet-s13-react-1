@@ -4,6 +4,15 @@
   padding: 2rem;
   text-align: center;
 }
+.imagens_container {
+  display: flex;
+  gap: 2rem;
+}
+
+.imagem {
+  width: 200px;
+  height: 200px;
+}
 
 .logo {
   height: 6em;

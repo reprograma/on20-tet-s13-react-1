@@ -1,6 +1,6 @@
 function Imagem(props) {
   return (
-    <img src={props.link} />
+    <img className={props.estilo} src={props.arquivo} />
   )
 }
 
