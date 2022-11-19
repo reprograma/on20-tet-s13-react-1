@@ -1,0 +1,9 @@
+.bio_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bio_text {
+  width: 50%;
+}

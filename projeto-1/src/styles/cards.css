@@ -1,0 +1,17 @@
+.imagem {
+  width: 400px;
+  width: 350px;
+}
+
+.cards_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  flex-wrap: wrap;
+  width: 60%;
+}
+
+.card {
+  width: 20rem;
+}

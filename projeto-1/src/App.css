@@ -4,19 +4,8 @@
   padding: 2rem;
   text-align: center;
 }
-
-.imagens_container {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  gap: 2rem;
-  width: 80%;
-  margin: 0 auto;
-}
-
-.imagem {
-  width: 30%;
-  height: 30%;
+.titulo {
+  color: pink;
 }
 
 .logo {
