@@ -1,0 +1,1 @@
+Aprendi nessa aula como montar um projeto básico no React usando props. Achei que o processo até o momento foi bem fácil e que o React é bastante intuitivo para quem já tem algum conhecimento de funções de JS e HTML. Tive um pouco de dificuldade na hora de entender como criar os cards, mas nada demais.
